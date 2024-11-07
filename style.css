@@ -1,0 +1,45 @@
+.image{
+    border-radius: 50%;
+    margin-bottom:5px;
+}
+
+.title{
+    color:#66bfbf;
+    text-align: center;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.text{
+    color:#66bfbf;
+    font-weight: bold;
+    font-family: "Merriweather", serif;
+}
+
+.grid_skills{
+    display:grid;
+    grid-template-rows: 0.5fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    margin:100px auto 0 auto;
+    text-align: left;
+    row-gap:2rem;
+}
+
+.typing{
+    display:flex;
+    justify-content: center;
+}
+
+.chillies{
+    display:flex;
+    justify-content: center;
+}
+
+.color{
+    background-color: #66bfbf;
+}
+
+.getin{
+    margin-top:7%;
+
+}
